@@ -41,7 +41,7 @@ class Contact extends React.Component {
             <ContactLeft />
             </Col>
             <Col  xl={6}  className="Contact-right">
-              <EmailForm />
+              {/* <EmailForm /> */}
             </Col>
             </Row>
            
